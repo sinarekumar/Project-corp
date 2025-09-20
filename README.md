@@ -1,12 +1,67 @@
-# React + Vite
+# 🌐 Corporate Website (React + Vite + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive **corporate website** built with **React, Vite, and Tailwind CSS**, inspired by professional designs like **Tata.com**.  
+This project delivers a smooth user experience with animations, dark/light mode, accessibility, and performance optimizations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎨 Features
 
-## Expanding the ESLint configuration
+- **Fully Responsive** – Works seamlessly on mobile, tablet, and desktop  
+- **Dark/Light Mode** – Toggle with smooth transitions  
+- **Smooth Animations** – Professional hover effects & transitions  
+- **Modern Design** – Clean corporate aesthetic  
+- **SEO Ready** – Structured markup & meta tags for search visibility  
+- **Performance Optimized** – Fast loading, optimized assets, smooth scrolling  
+- **Accessibility** – ARIA labels, keyboard navigation, semantic HTML  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Key Components
+
+- ✅ Sticky navigation with scroll effects  
+- ✅ Mobile hamburger menu  
+- ✅ Auto-playing hero carousel  
+- ✅ Smooth section scrolling  
+- ✅ Interactive feature cards  
+- ✅ Progress bars for sustainability metrics  
+- ✅ News article cards  
+- ✅ Newsletter subscription form  
+- ✅ Social media integration  
+- ✅ Responsive grid layouts  
+
+---
+
+## 📱 Mobile Optimized
+
+- Touch-friendly navigation  
+- Responsive images  
+- Optimized typography  
+- Fast loading on mobile networks  
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Animations:** Framer Motion, CSS animations  
+- **Routing:** React Router  
+- **Icons:** Lucide / Heroicons  
+- **Forms:** Newsletter subscription form  
+
+---
+
+## 📂 Project Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to project folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
